@@ -34,8 +34,8 @@ public class SampleJDBCCall {
 	static ExecutorService executor;
 	static SimpleDateFormat formatter = new SimpleDateFormat("dd/MM/yyyy HH:mm:ss");
 
-//	 static String inputFile= "/Users/hemang.rami/Desktop/backup/input.txt";
-//	 static String outputFile="/Users/hemang.rami/Desktop/backup/result.txt";
+//	 static String inputFile= "/input.txt";
+//	 static String outputFile="/result.txt";
 	public static void main(String[] args) {
 		try {
 			System.out.println("1.inputFile 2.outputfile 3.numberofthread 4.url 5.username 6.password");
