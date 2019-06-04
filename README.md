@@ -1,5 +1,5 @@
 # sample-JDBC
-sample jdbc with postgresl
+sample jdbc with postgresl (we use Executor framework and CountDownLatch classic example)
 
 
 run program
